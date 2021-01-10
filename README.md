@@ -1,6 +1,7 @@
 # networking-retrofit-example
 
 This is a project to understand how to make a `GET` request to fetch data from an api.
+The project is using [Dog API](https://dog.ceo/dog-api/) to fetch 20 random images of dogs and display it in a RecyclerView.
 
 ## Libraries Used
 - [Flow](https://developer.android.com/kotlin/flow) - Asynchronous programming
